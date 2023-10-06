@@ -17,5 +17,5 @@ Se determinaron 3 KPI'S:
 ![Alt text](image.png)
 
 Conclusiones
-La reducción de los accidentes no sigue un patrón. Se concsidera que haría falta mas información para poder optimizar el análisis.
+La reducción de los accidentes no sigue un patrón. Se considera que haría falta mas información para poder optimizar el análisis.
 Sin embargo, se ve que los accidentes de motociclistas van en aumento ya que en 2020 disminuyeron por la reducción de tránsito por el contexto panedemia pero en el 2021 se presenta un gran ascenso.
