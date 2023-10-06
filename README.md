@@ -2,7 +2,7 @@ Los incidentes viales, conocidos coloquialmente como accidentes de tráfico, aba
 
 En el contexto de una metrópolis como Buenos Aires, donde la circulación vehicular es intensa y la densidad poblacional es alta, los siniestros viales representan una inquietud de considerable envergadura. Dichos incidentes pueden afectar de forma significativa la seguridad de los residentes y visitantes de la ciudad, además de influir en la infraestructura vial y en la capacidad de respuesta de los servicios de emergencia. Las tasas de mortalidad vinculadas a estos sucesos son un indicador crítico para evaluar la seguridad en el tránsito en la región, y reducir estas tasas se convierte en una meta primordial para mejorar la seguridad en las calles y proteger vidas humanas. Para abordar este desafío, resulta esencial implementar medidas que comprenden desde la educación vial hasta el acatamiento de las regulaciones de tráfico, la mejora de la infraestructura vial y la promoción de vehículos más seguros, acompañadas de un seguimiento riguroso de las estadísticas y la aplicación de políticas eficaces.
 
-ETL y EDA
+ETL y EDA /n
 De manera que pueda hacer un análisis representativo del contexto y los hechos ocurridos, se realizo un ETL elminando columnas casi vacías y no relevantes. Se cambio el tipo de dato de algunas otras como HH (para trabajar sin problemas en PowerBI) y la columna de los días, para una mejor lectura. En la etapa de EDA se notaron datos faltantes y luego se realizaorn algunas gráficas vinculando ciertas variables para seguir tomando decisiones con respecto al ETL y al futuro dashboard.
 
 DASHBOARD 
