@@ -13,6 +13,7 @@ Se hizo el dashboard en PowerBI describiendo en cada página, con adecuadas form
 KPI's
 
 Se determinaron 3 KPI'S:
+
 1.- Reducción de un 10% la tasa de homicidios en siniestros viales de los últimos seis meses
 2.- Reducción del 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior.
 3.- Reducción del 15% de los accidentes viales en las "calles" cuyas víctimas fueron peatones.
